@@ -38,8 +38,6 @@ Here are a few highlights I'm proud of:
 ---
 
 ### 📈 GitHub Stats
-
-![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anish-Narayan&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anish-Narayan&layout=compact&theme=tokyonight)
 
 ---
