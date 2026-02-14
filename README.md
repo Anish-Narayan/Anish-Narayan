@@ -36,9 +36,7 @@ Here are a few highlights I'm proud of:
 ➡️ Check out more in my pinned repos!
 
 ---
-
-### 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anish-Narayan&layout=compact&theme=tokyonight)
+[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anish-Narayan&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -46,7 +44,7 @@ Here are a few highlights I'm proud of:
 [![LinkedIn](https://img.shields.io/badge/-anish-linkedin?style=flat&logo=linkedin&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/anish-narayan-s-6260b9291/)  
 📫 Email: anish11042006@gmail.com 
 
-🌐 Portfolio: https://anishs-portfolio.netlify.app/ 👀  
+🌐 Portfolio: [Anish Narayan S](https://anishnarayan.vercel.app/) 👀  
 
 ---
 
